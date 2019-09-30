@@ -1,4 +1,4 @@
-from google import search
+from googlesearch import search
 import os
 import argparse
 
